@@ -1,2 +1,2 @@
 # r_projects
-Several R Projects
+Here are several R projects that I have worked on.
